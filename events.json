@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "slNo": 1,
+      "name": "CLUB ACTIVITY INAUGURATION",
+      "date": "2021-11-27",
+      "details": "View details"
+    },
+    {
+      "slNo": 2,
+      "name": "FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT",
+      "date": "2021-12-14 to 2021-12-18",
+      "details": "View details"
+    },
+    {
+      "slNo": 3,
+      "name": "UDHBHAVA, Technical club Activity-\"YOUR START-UP STORY\"",
+      "date": "2021-12-04",
+      "details": "View details"
+    },
+    {
+      "slNo": 4,
+      "name": "UNIVERSITY TOPPERS OF CSE DEPARTMENT-2021",
+      "date": "2021-12-17",
+      "details": "View details"
+    },
+    {
+      "slNo": 5,
+      "name": "SPARKS-INTELLIGENTIA 22",
+      "date": "2022-03-29",
+      "details": "View details"
+    },
+    {
+      "slNo": 6,
+      "name": "UI DESIGNING HACKATHON",
+      "date": "2022-05-16",
+      "details": "View details"
+    },
+    {
+      "slNo": 7,
+      "name": "BOOTCAMP ON DATA ANALYTICS",
+      "date": "2022-05-31 to 2022-06-04",
+      "details": "View details"
+    },
+    {
+      "slNo": 8,
+      "name": "SMART INDIA HACKATHON",
+      "date": "2022-08-25 to 2022-08-29",
+      "details": "View details"
+    },
+    {
+      "slNo": 9,
+      "name": "PROTOTYPE DESIGN ON ROBOTICS",
+      "date": "2022-10-21",
+      "details": "View details"
+    },
+    {
+      "slNo": 10,
+      "name": "TWO DAYS WORKSHOP ON CLOUD COMPUTING AWS",
+      "date": "2022-11-18 to 2022-11-19",
+      "details": "View details"
+    },
+    {
+      "slNo": 11,
+      "name": "THREE DAYS WORKSHOP ON UI/UX DESIGN",
+      "date": "2022-12-20 to 2022-12-22",
+      "details": "View details"
+    },
+    {
+      "slNo": 12,
+      "name": "CODING CLUB",
+      "date": "2023-05-05",
+      "details": "View details"
+    },
+    {
+      "slNo": 13,
+      "name": "3-DAYS HANDS-ON WORKSHOP ON AGILE & SCRUM",
+      "date": "2023-06-22 to 2023-06-24",
+      "details": "View details"
+    }
+  ]
+}
